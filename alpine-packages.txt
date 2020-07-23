@@ -1,1 +1,1 @@
-sudo apk add alsa-utils minicom ofonoctl
+alsa-utils minicom ofonoctl
