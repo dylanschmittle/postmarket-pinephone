@@ -3,3 +3,8 @@ minicom
 ofonoctl
 openssh
 openvpn
+build-base
+python3-dev
+libffi-dev
+openssl-dev
+py3-pip
