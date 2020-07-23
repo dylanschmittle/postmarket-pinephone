@@ -1,1 +1,5 @@
-alsa-utils minicom ofonoctl
+alsa-utils
+minicom
+ofonoctl
+openssh
+openvpn
